@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 🙂
+
+I'm mainly interested in the intersection of product & engineering & entrepreneurship. 
+Also I've been picking up writing recently at www.davidfurlong.me
 
 <!--
 **davidfurlong/davidfurlong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
