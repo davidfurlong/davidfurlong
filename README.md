@@ -3,6 +3,8 @@
 I'm mainly interested in the intersection of product & engineering & entrepreneurship. 
 Also I've been picking up writing recently at www.davidfurlong.me
 
+I'm hiring a great engineer here [Angellist job post](https://angel.co/company/deedmob/jobs/900080-remote-lead-engineer-at-small-profitable-impact-startup)
+
 <!--
 **davidfurlong/davidfurlong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
