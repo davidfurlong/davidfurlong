@@ -1,3 +1,5 @@
+Working to help decentralized social win.
+
 <!-- ### Hi there 🙂 -->
 <!-- 
 I'm mainly interested in the intersection of product & engineering & entrepreneurship. 
